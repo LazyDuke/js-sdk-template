@@ -1,4 +1,4 @@
-# sdk-templates
+# js-sdk-template
 
 ## description 
 JavaScript version SDK.
